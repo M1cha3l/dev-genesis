@@ -5,10 +5,10 @@
 	"version"      : "0.0.1",
 	"description"  : "Scrape the web.",
 	"main"         : "server.js",
-	"author"       : "V1t0",
+	"author"       : "Scotch
 	"dependencies" : {
-	    "express"    : "latest",
-	    "request"    : "latest",
-	    "cheerio"    : "latest"
+	    "express"  : "latest",
+	    "request"  : "latest",
+	    "cheerio"  : "latest"
 	}
 }
